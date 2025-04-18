@@ -1,7 +1,7 @@
-## Medicine Recommendation System
+# Medicine Recommendation System
 This project aims to recommend appropriate medicines based on user-reported symptoms using machine learning techniques. It leverages datasets containing symptom severity, medication details, and other relevant information to train predictive models.​
 
-# 🚀 Features
+## 🚀 Features
 Data preprocessing and analysis using pandas and NumPy
 
 Visualization of data distributions and correlations with matplotlib and seaborn
